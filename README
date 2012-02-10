@@ -1,0 +1,18 @@
+This is a simple generative music synthesizer built in Max/MSP created by Diego Caponera, Nicolò Paternoster and Giuseppe Sorce. It involves 5 FM generators which play notes randomly based on a root key and intervals defined by the user. It’s an university project made for an exam for Sound’s Science degree (Math Department of Roma Tor Vergata).
+
+The software is distributed “as is”, without any warranty, under a GPL license.
+
+Features:
+
+* Glitchy palette of sounds
+* Change notes with MIDI (from clips and/or controllers)
+* Switch Harmonic/Dissonant to avoid dissonant chords
+* Clock synced
+* Fully MIDI mappable
+* Glide!
+
+This is the port of the original SMILE application, plus additional features. Grab the .zip from googlecode to get some presets as well: http://code.google.com/p/smilesynth/
+
+Watch a demo video here: http://www.youtube.com/watch?v=VVHYE7VOWxQ
+
+Have fu
